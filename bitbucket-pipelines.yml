@@ -1,0 +1,8 @@
+image: abesiyo/s3
+pipelines:
+  branches:
+    master:
+      - step:
+          script:
+            - s3 --region "us-east-1" rm s3://wolfedge.capital
+            - s3 --region "us-east-1" sync . s3://wolfedge.capital

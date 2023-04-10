@@ -1,0 +1,4 @@
+Contact: mailto:mohak@wolfedge.capital
+Expires: 2026-09-30T17:49:00.000Z
+Preferred-Languages: en
+Canonical: https://www.wolfedge.capital/.well-known/security.txt

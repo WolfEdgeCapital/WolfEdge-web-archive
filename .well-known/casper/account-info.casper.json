@@ -1,0 +1,71 @@
+{
+  "owner": {
+    "name": "WolfEdge",
+    "description": "Your Trusted Validation Partner in Trustless Economy.",
+    "type": [
+      "validator"
+    ],
+    "identity": {
+      "ownership_disclosure_url": "",
+      "casper_association_kyc_url": "",
+      "casper_association_kyc_onchain": ""
+    },
+    "resources": {
+      "code_of_conduct_url": "",
+      "terms_of_service_url": "https://www.wolfedge.capital/terms.pdf",
+      "privacy_policy_url": "https://www.wolfedge.capital/terms.pdf",
+      "other": [
+        {
+          "name": "About Us",
+          "url": "https://wolfedge.capital"
+        }
+      ]
+    },
+    "affiliated_accounts": [
+      {
+        "public_key": "0149fcd9cc0986ba04d77ad48c7def4860bf6952ccb075666e579549386fd2f143"
+      }
+    ],
+    "website": "https://wolfedge.capital",
+    "email": "hello@wolfedge.capital",
+    "branding": {
+      "logo": {
+        "png_256": "",
+        "png_1024": "",
+        "svg": "https://www.wolfedge.capital/logo.svg"
+      }
+    },
+    "location": {
+      "name": "HongKong",
+      "country": "HK",
+      "latitude": 0,
+      "longitude": 0
+    },
+    "social": {
+      "keybase": "",
+      "telegram": "",
+      "twitter": "@WolfEdgeCapital",
+      "github": "mohakagr",
+      "youtube": "",
+      "facebook": "",
+      "medium": "",
+      "reddit": "",
+      "wechat": ""
+    }
+  },
+  "nodes": [
+    {
+      "public_key": "0149fcd9cc0986ba04d77ad48c7def4860bf6952ccb075666e579549386fd2f143",
+      "description": "A Crypto based investment fund with an exclusive focus on the most ambitious early age blockchain startups",
+      "location": {
+        "name": "HongKong",
+        "country": "HK",
+        "latitude": 1.2844330685080474,
+        "longitude": 103.85113405983584
+      },
+      "functionality": [
+        "validator"
+      ]
+    }
+  ]
+}

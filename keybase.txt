@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/wolfedge
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://wolfedge.capital
+  * I am wolfedge (https://keybase.io/wolfedge) on keybase.
+  * I have a public key ASBu-vBvXlvX8ievrzkrWsC6H1rtY8Hp9JotiLe9WVabyAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01206efaf06f5e5bd7f227afaf392b5ac0ba1f5aed63c1e9f49a2d88b7bd59569bc80a",
+      "host": "keybase.io",
+      "kid": "01206efaf06f5e5bd7f227afaf392b5ac0ba1f5aed63c1e9f49a2d88b7bd59569bc80a",
+      "uid": "0796051b78b8c6df67dcbfc96af7cf19",
+      "username": "wolfedge"
+    },
+    "merkle_root": {
+      "ctime": 1605679011,
+      "hash": "aba98c5280514165319330752866aca7e4a2b9aae2f1d133215ce47897d3b684d9522cba430f1819698d82c0ae9315376f081777852d70c9b27d07b98e76b9ce",
+      "hash_meta": "400afaf2efaffe05c8ae4ffab99d62cc9b4fd056ec0b7d3e970ee3c1788ee0c0",
+      "seqno": 18155813
+    },
+    "service": {
+      "entropy": "2HfVsp4H5c2ZGrtqwQTCOorp",
+      "hostname": "wolfedge.capital",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.0"
+  },
+  "ctime": 1605679057,
+  "expire_in": 504576000,
+  "prev": "add00f66ce70bfdc9e722523625506de8aa13d26cfe66e6ec7fabb06e1227109",
+  "seqno": 7,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgbvrwb15b1/Inr685K1rAuh9a7WPB6fSaLYi3vVlWm8gKp3BheWxvYWTESpcCB8QgrdAPZs5wv9yeciUjYlUG3oqhPSbP5m5ux/q7BuEicQnEIF6ZDeZ1urUtOAq72wyDwOuJpMhlrNMB9lvhCapCfJ7CAgHCo3NpZ8RAcZ+guo75Sy+srHvukBrch/Ck9oqx9XILf9c/TTR0Ul3gjt62ZDRUFPdNagc5inO5ET9UkzNDkwVKZawE4iAlBqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIPJ9UBDy04XJyF2VWgGJgtwrNUCHwGD1seWS/ntTJ4yro3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/wolfedge
+
+==================================================================
